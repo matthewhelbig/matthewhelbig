@@ -64,6 +64,7 @@ Analyzed data distributions, trends, and relationships using visualizations and 
 
 ### D206 - Medical Data Analysis & Dimensionality Reduction Using PCA
 [View Project](https://github.com/matthewhelbig/D206_DataCleaning)
+
 **Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib**
 
 **Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Outlier Detection, Feature Engineering, Principal Component Analysis (PCA)**
