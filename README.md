@@ -1,4 +1,4 @@
-# Hi, I'm Matthew Helbig
+# Matthew Helbig Data Analyst Portfolio
 
 Data analyst with a master's degree in data analytics, specializing in SQL, Python, and data visualization. I focus on transforming complex datasets into actionable insights.
 
