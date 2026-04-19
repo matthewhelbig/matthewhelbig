@@ -55,10 +55,20 @@ Analyzed data distributions, trends, and relationships using visualizations and 
 
 ---
 
-### D207 - Exploratory Data Analysis
+### D207 - Chi-Square Hypothesis Testing on Healthcare Variables
 [View Project](https://github.com/matthewhelbig/D207_ExploratoryDataAnalysis)
 
-Analyzed data distributions, trends, and relationships using visualizations and statistical summaries.
+**Tools: Python, Pandas, SciPy**
+
+**Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Contingency Tables, Chi-Square Test of Independence, Hypothesis Testing, Statistical Analysis, Data Interpretation**  
+
+- Performed data analysis on healthcare variables to evaluate whether a statistically significant relationship existed between Anxiety and Complication Risk  
+- Built a contingency table to summarize counts across categorical variables prior to hypothesis testing  
+- Applied the Chi-Square Test of Independence using `scipy.stats.chi2_contingency()` to assess whether the two categorical variables were dependent or independent 
+- Interpreted key statistical outputs including chi-square statistic, p-value, degrees of freedom, and expected frequencies to support findings  
+- Determined that the results were not statistically significant (`p = 0.89`), so the null hypothesis was not rejected and the variables were considered independent   
+- Evaluated methodological limitations of chi-square analysis, including its restriction to categorical variables and limited ability to measure strength of relationship
+- Generated a data-driven recommendation that no actionable relationship was demonstrated between the selected healthcare variables based on this analysis
 
 ---
 
