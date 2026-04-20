@@ -52,6 +52,7 @@ Analyzed data distributions, trends, and relationships using visualizations and 
 [View Project](https://github.com/matthewhelbig/D208_PredictiveModeling)
 
 **Tools:** Python, Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, Seaborn, Matplotlib
+
 **Techniques:** Data Cleaning, EDA, Multiple Linear Regression, Logistic Regression, Feature Selection, Multicollinearity (VIF), Model Evaluation, Classification Metrics 
 
 ### [Task 1](https://github.com/matthewhelbig/D208_PredictiveModeling/blob/main/D208%20Task%201%20Performance%20Assessment.ipynb): Multiple Linear Regression (Predictive Modeling)
