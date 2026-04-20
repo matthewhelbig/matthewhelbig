@@ -48,11 +48,29 @@ Analyzed data distributions, trends, and relationships using visualizations and 
 
 ---
 
-### D208 - Predictive Modeling
+### D208 - Regression and Classification Modeling
 [View Project](https://github.com/matthewhelbig/D208_PredictiveModeling)
 
-Analyzed data distributions, trends, and relationships using visualizations and statistical summaries.
+**Tools:** Python, Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, Seaborn, Matplotlib
+**Techniques:** Data Cleaning, EDA, Multiple Linear Regression, Logistic Regression, Feature Selection, Multicollinearity (VIF), Model Evaluation, Classification Metrics 
 
+### [Task 1](https://github.com/matthewhelbig/D208_PredictiveModeling/blob/main/D208%20Task%201%20Performance%20Assessment.ipynb): Multiple Linear Regression (Predictive Modeling)
+- Conducted multiple linear regression analysis to identify which variables significantly influence additional healthcare charges and quantify their impact
+- Built and interpreted a multivariate regression model, analyzing coefficients to determine the directional and magnitude effect of each independent variable on the dependent variable  
+- Evaluated key model assumptions including linearity, independence, multicollinearity, and model fit to ensure statistical validity of results
+- Performed feature selection using statistical significance (p-values) and Variance Inflation Factor (VIF) to reduce multicollinearity and refine the model  
+- Assessed overall model performance using metrics such as R-squared and p-values, determining that the model lacked statistical and practical significance
+- Identified limitations in the analysis, including weak relationships between variables and potential issues with feature selection reducing model effectiveness
+- Provided data-driven recommendations, including transforming variables, revising feature selection, and exploring alternative variable relationships to improve future modeling outcomes
+
+### [Task 2](https://github.com/matthewhelbig/D208_PredictiveModeling/blob/main/D208%20Task%202%20Performance%20Assessment.ipynb): Logistic Regression (Classification Modeling)
+- Conducted logistic regression analysis to model the probability of a binary healthcare outcome (e.g., patient readmission) based on multiple predictor variables
+- Built a classification model to estimate the likelihood of an event occurring, interpreting results through odds ratios and probability output 
+- Evaluated model assumptions specific to logistic regression, including binary dependent variable structure and probabilistic interpretation of outcomes
+- Performed feature selection and multicollinearity reduction using statistical significance and Variance Inflation Factor (VIF)  
+- Assessed model performance using a confusion matrix and classification metrics to evaluate predictive accuracy  
+- Conducted outlier detection and data preparation using Z-scores, visualizations, and statistical methods to improve model reliability  
+- Provided actionable insights by identifying key factors influencing the likelihood of healthcare outcomes, supporting data-driven decision-making
 ---
 
 ### D207 - Chi-Square Hypothesis Testing on Healthcare Variables
@@ -64,9 +82,9 @@ Analyzed data distributions, trends, and relationships using visualizations and 
 
 - Performed data analysis on healthcare variables to evaluate whether a statistically significant relationship existed between Anxiety and Complication Risk  
 - Built a contingency table to summarize counts across categorical variables prior to hypothesis testing  
-- Applied the Chi-Square Test of Independence using `scipy.stats.chi2_contingency()` to assess whether the two categorical variables were dependent or independent 
+- Applied the Chi-Square Test of Independence to assess whether the two categorical variables were dependent or independent 
 - Interpreted key statistical outputs including chi-square statistic, p-value, degrees of freedom, and expected frequencies to support findings  
-- Determined that the results were not statistically significant (`p = 0.89`), so the null hypothesis was not rejected and the variables were considered independent   
+- Determined that the results were not statistically significant, so the null hypothesis was not rejected and the variables were considered independent   
 - Evaluated methodological limitations of chi-square analysis, including its restriction to categorical variables and limited ability to measure strength of relationship
 - Generated a data-driven recommendation that no actionable relationship was demonstrated between the selected healthcare variables based on this analysis
 
