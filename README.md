@@ -49,7 +49,7 @@ Built a logistic regression model to predict outcomes, including feature enginee
 - Applied Principal Component Analysis (PCA) to reduce dimensionality in a healthcare dataset while preserving the majority of variance  
 - Performed data preprocessing, including handling missing values, encoding categorical variables, and scaling features to ensure PCA effectiveness  
 - Standardized variables to ensure equal contribution across features prior to transformation  
-- Computed principal components** and evaluated **explained variance ratios to determine the optimal number of components  
+- Computed principal components and evaluated explained variance ratios to determine the optimal number of components  
 - Reduced the dataset to a smaller set of components while retaining the most informative structure in the data  
 - Visualized component relationships using scatter plots and variance plots to interpret underlying data patterns  
 - Identified key feature groupings and latent structures driving variation in the dataset  
