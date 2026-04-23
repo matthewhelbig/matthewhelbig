@@ -20,7 +20,7 @@ Built a logistic regression model to predict outcomes, including feature enginee
 
 ---
 
-### D212 Data Mining II
+### D212 - Advanced Data Mining & Predictive Analytics
 [View Project](https://github.com/matthewhelbig/D212_DataMining2)
 
 ### [Task 1](https://github.com/matthewhelbig/D212_DataMining2/blob/main/D212%20Task%201%20Performance%20Assessment.ipynb) - K-Means Clustering Analysis for Patient Segmentation
@@ -53,7 +53,22 @@ Built a logistic regression model to predict outcomes, including feature enginee
 - Reduced the dataset to a smaller set of components while retaining the most informative structure in the data  
 - Visualized component relationships using scatter plots and variance plots to interpret underlying data patterns  
 - Identified key feature groupings and latent structures driving variation in the dataset  
-- Demonstrated how PCA can improve model efficiency, reduce multicollinearity, and enhance interpretability for downstream analytics  
+- Demonstrated how PCA can improve model efficiency, reduce multicollinearity, and enhance interpretability for downstream analytics
+
+## [Task 3](https://github.com/matthewhelbig/D212_DataMining2/blob/main/D212%20Task%203%20Performance%20Assessment.ipynb) - Market Basket Analysis & Association Rule Mining
+
+**Tools: Python, Pandas, mlxtend**  
+**Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Data Transformation, Market Basket Analysis, Association Rule Learning, Apriori Algorithm, Frequent Itemset Mining, Model Evaluation (Support, Confidence, Lift), Data Visualization**  
+
+- Performed market basket analysis to identify relationships between commonly co-occurring medications within a healthcare dataset
+- Transformed transactional data into a one-hot encoded format suitable for association rule mining  
+- Applied the Apriori algorithm to generate frequent itemsets using a minimum support threshold  
+- Generated association rules from frequent itemsets to identify meaningful relationships between medications  
+- Evaluated rule strength using support, confidence, and lift, quantifying the frequency and predictive power of item relationships  
+- Interpreted association rules to uncover patterns in medication co-occurrence, supporting insights into treatment combinations and prescribing behavior  
+- Validated findings based on the underlying assumption that frequently co-occurring items represent meaningful relationships, while acknowledging limitations of the method 
+- Delivered data-driven insights to support healthcare analytics, including identifying complementary medications and potential areas for further investigation  
+
 ---
 
 ### D211 - Advanced Data Acquisition
