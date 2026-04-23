@@ -13,10 +13,39 @@ End-to-end analysis using statistical modeling to identify key drivers and predi
 
 ---
 
-### D213 - Advanced Data Analysis
+### D213 - Predictive Analytics Using Time Series Modeling and Neural Network Architectures
 [View Project](https://github.com/matthewhelbig/D213_AdvancedDataAnalysis)
 
-Built a logistic regression model to predict outcomes, including feature engineering and performance evaluation.
+### [Task 1](https://github.com/matthewhelbig/D213_AdvancedDataAnalysis/blob/main/D213%20Task%201%20Performance%20Assessment.ipynb) - Time Series Forecasting Using ARIMA
+
+**Tools: Python, Pandas, NumPy, Statsmodels, Matplotlib** 
+
+**Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Time Series Analysis, ARIMA Modeling, Stationarity Assessment, ACF/PACF Analysis, Forecasting, Model Evaluation, Data Visualization**  
+
+- Performed time series analysis on healthcare data to identify patterns and build a predictive forecasting model  
+- Evaluated stationarity of the dataset, identifying non-stationary behavior requiring transformation prior to modeling
+- Applied Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) analysis to determine appropriate model parameters  
+- Identified an ARIMA(2,1,0) model structure based on ACF/PACF behavior and differencing requirements
+- Performed data transformation (differencing) to stabilize the mean and prepare the dataset for time series modeling  
+- Built and evaluated an ARIMA forecasting model to predict future values based on historical trends  
+- Visualized time series patterns and model outputs to interpret trends and validate forecasting assumptions  
+- Generated data-driven forecasts to support predictive analytics and trend-based decision-making
+
+### [Task 2](https://github.com/matthewhelbig/D213_AdvancedDataAnalysis/blob/main/D213%20Task%202%20Performance%20Assessment.ipynb) - Neural Network Model for Predictive Classification
+
+**Tools: Python, Pandas, NumPy, TensorFlow/Keras, Matplotlib, Seaborn**  
+
+**Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Feature Scaling, Train-Test Split, Neural Networks, Deep Learning, Model Training, Model Evaluation, Classification, Data Visualization**  
+
+- Developed a neural network model to predict outcomes in a healthcare dataset using supervised learning techniques 
+- Performed data preprocessing, including handling missing values, encoding variables, and preparing features for model input  
+- Applied feature scaling to normalize inputs for optimal neural network performance  
+- Split data into training and testing sets to evaluate model generalization  
+- Designed and implemented a multi-layer neural network architecture using a deep learning framework  
+- Trained the model through iterative optimization to learn complex, non-linear relationships in the data  
+- Evaluated model performance using appropriate classification metrics and validation techniques  
+- Visualized model performance and learning behavior to assess accuracy and potential overfitting  
+- Delivered a complete end-to-end machine learning pipeline, from preprocessing through model deployment-ready output  
 
 ---
 
