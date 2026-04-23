@@ -40,6 +40,7 @@ Analyzed data distributions, trends, and relationships using visualizations and 
 [Tableau Dashboard](https://public.tableau.com/app/profile/matthew.helbig/viz/D210PerformanceAssessment_17081151912580/Story1#1)
 
 **Tools: Tableau Public, Python, Pandas** 
+
 **Techniques: Data Cleaning, Data Integration, Dashboard Development, Data Visualization, Business Intelligence (BI), KPI Reporting, Healthcare Analytics, Stakeholder Communication**  
 
 - Built an interactive Tableau dashboard using combined healthcare datasets to support visual analysis and stakeholder decision-making
