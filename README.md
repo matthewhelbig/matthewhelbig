@@ -23,7 +23,22 @@ Built a logistic regression model to predict outcomes, including feature enginee
 ### D212 Data Mining II
 [View Project](https://github.com/matthewhelbig/D212_DataMining2)
 
-Developed an interactive dashboard to visualize trends and support data-driven decision-making.
+### [Task 1](https://github.com/matthewhelbig/D212_DataMining2/blob/main/D212%20Task%201%20Performance%20Assessment.ipynb) - K-Means Clustering Analysis for Patient Segmentation
+
+**Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn** 
+
+**Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Unsupervised Machine Learning, K-Means Clustering, Feature Scaling (Standardization), Cluster Evaluation (Elbow Method, Silhouette Score), Data Visualization**  
+
+- Performed unsupervised machine learning analysis using K-Means clustering to identify distinct patient segments based on demographic and socioeconomic variables
+- Selected and refined key continuous variables to improve cluster separation and interpretability  
+- Applied data preprocessing techniques, including standardization using `StandardScaler`, to meet model assumptions and ensure equal variance across features  
+- Determined the optimal number of clusters using within-cluster sum of squares (WCSS), silhouette score, and centroid analysis 
+- Identified three distinct clusters:  
+  - Low Population / Low Income  
+  - High Population / Low Income  
+  - Low Population / High Income 
+- Interpreted clustering results to generate actionable healthcare insights, including identifying underserved populations and strategic opportunities for hospital expansion  
+- Evaluated limitations of K-Means clustering, including reliance on continuous variables and reduced ability to incorporate categorical data  
 
 ---
 
