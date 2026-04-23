@@ -38,8 +38,22 @@ Built a logistic regression model to predict outcomes, including feature enginee
   - High Population / Low Income  
   - Low Population / High Income 
 - Interpreted clustering results to generate actionable healthcare insights, including identifying underserved populations and strategic opportunities for hospital expansion  
-- Evaluated limitations of K-Means clustering, including reliance on continuous variables and reduced ability to incorporate categorical data  
+- Evaluated limitations of K-Means clustering, including reliance on continuous variables and reduced ability to incorporate categorical data
 
+### [Task 2](https://github.com/matthewhelbig/D212_DataMining2/blob/main/D212%20Task%202%20Performance%20Assessment.ipynb) - Principal Component Analysis (PCA) for Dimensionality Reduction  
+
+**Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn**
+
+**Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Feature Scaling, Principal Component Analysis (PCA), Variance Explained Analysis, Data Visualization**
+
+- Applied Principal Component Analysis (PCA) to reduce dimensionality in a healthcare dataset while preserving the majority of variance  
+- Performed data preprocessing, including handling missing values, encoding categorical variables, and scaling features to ensure PCA effectiveness  
+- Standardized variables to ensure equal contribution across features prior to transformation  
+- Computed principal components** and evaluated **explained variance ratios to determine the optimal number of components  
+- Reduced the dataset to a smaller set of components while retaining the most informative structure in the data  
+- Visualized component relationships using scatter plots and variance plots to interpret underlying data patterns  
+- Identified key feature groupings and latent structures driving variation in the dataset  
+- Demonstrated how PCA can improve model efficiency, reduce multicollinearity, and enhance interpretability for downstream analytics  
 ---
 
 ### D211 - Advanced Data Acquisition
