@@ -102,6 +102,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 ### [Task 3](https://github.com/matthewhelbig/D212_DataMining2/blob/main/D212%20Task%203%20Performance%20Assessment.ipynb) - Market Basket Analysis & Association Rule Mining
 
 **Tools: Python, Pandas, mlxtend**  
+
 **Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Data Transformation, Market Basket Analysis, Association Rule Learning, Apriori Algorithm, Frequent Itemset Mining, Model Evaluation (Support, Confidence, Lift), Data Visualization**  
 
 - Performed market basket analysis to identify relationships between commonly co-occurring medications within a healthcare dataset
@@ -121,6 +122,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 [Tableau Dashboard](https://public.tableau.com/app/profile/matthew.helbig/viz/D210PerformanceAssessment_17081151912580/Story1#1)
 
 **Tools: PostgreSQL (pgAdmin4), SQL, Tableau**
+
 **Techniques: Data Cleaning, Data Transformation, Data Integration, SQL Joins, SQL Union Operations, Data Engineering, Feature Engineering, Data Visualization, Dashboard Development, Business Intelligence (BI)**  
 
 - Designed and executed advanced SQL workflows in PostgreSQL to clean, transform, and prepare healthcare data for analysis
