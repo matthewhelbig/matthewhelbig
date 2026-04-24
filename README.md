@@ -28,7 +28,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D213 - Predictive Analytics Using Time Series Modeling and Neural Network Architectures
+### Predictive Analytics Using Time Series Modeling and Neural Network Architectures
 [View Project](https://github.com/matthewhelbig/D213_AdvancedDataAnalysis)
 
 ### [Task 1](https://github.com/matthewhelbig/D213_AdvancedDataAnalysis/blob/main/D213%20Task%201%20Performance%20Assessment.ipynb) - Time Series Forecasting Using ARIMA
@@ -64,7 +64,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D212 - Advanced Data Mining & Predictive Analytics
+### Advanced Data Mining & Predictive Analytics
 [View Project](https://github.com/matthewhelbig/D212_DataMining2)
 
 ### [Task 1](https://github.com/matthewhelbig/D212_DataMining2/blob/main/D212%20Task%201%20Performance%20Assessment.ipynb) - K-Means Clustering Analysis for Patient Segmentation
@@ -115,7 +115,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D211 - SQL-Driven Data Preparation & Tableau Dashboard Development
+### SQL-Driven Data Preparation & Tableau Dashboard Development
 [View Project](https://github.com/matthewhelbig/D211_AdvancedDataAcquisition)
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/matthew.helbig/viz/D210PerformanceAssessment_17081151912580/Story1#1)
@@ -141,7 +141,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D210 - Tableau Healthcare Dashboard & Data Visualization
+### Tableau Healthcare Dashboard & Data Visualization
 [View Project](https://github.com/matthewhelbig/D210_RepresentationAndReporting)
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/matthew.helbig/viz/D210PerformanceAssessment_17081151912580/Story1#1)
@@ -160,7 +160,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D209 - K-Nearest Neighbor and Decision Tree Classification
+### K-Nearest Neighbor and Decision Tree Classification
 [View Project](https://github.com/matthewhelbig/D209_DataMining1)
 
 **Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn** 
@@ -190,7 +190,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D208 - Regression and Classification Modeling
+### Regression and Classification Modeling
 [View Project](https://github.com/matthewhelbig/D208_PredictiveModeling)
 
 **Tools: Python, Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, Seaborn, Matplotlib**
@@ -216,7 +216,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 - Provided actionable insights by identifying key factors influencing the likelihood of healthcare outcomes, supporting data-driven decision-making
 ---
 
-### D207 - Chi-Square Hypothesis Testing on Healthcare Variables
+### Chi-Square Hypothesis Testing on Healthcare Variables
 [View Project](https://github.com/matthewhelbig/D207_ExploratoryDataAnalysis)
 
 **Tools: Python, Pandas, SciPy**
@@ -233,7 +233,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D206 - Medical Data Analysis & Dimensionality Reduction Using PCA
+### Medical Data Analysis & Dimensionality Reduction Using PCA
 [View Project](https://github.com/matthewhelbig/D206_DataCleaning)
 
 **Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib**
