@@ -249,7 +249,7 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 - Delivered insights to support data-driven decision-making and analytical modeling
 
 ---
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Programming & Data Analysis:**  
 Python (Pandas, NumPy, SciPy, Statsmodels, Scikit-learn), SQL (PostgreSQL), Excel  
