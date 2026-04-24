@@ -249,10 +249,19 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 - Delivered insights to support data-driven decision-making and analytical modeling
 
 ---
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Excel
-- Tableau
-- Data Visualization (Matplotlib, Seaborn)
+**Programming & Data Analysis:**  
+Python (Pandas, NumPy, SciPy, Statsmodels, Scikit-learn), SQL (PostgreSQL), Excel  
+
+**Machine Learning & Statistical Modeling:**  
+Regression (Linear, Logistic), Classification (KNN, Decision Trees), Clustering (K-Means), Dimensionality Reduction (PCA), Time Series Forecasting (ARIMA), Neural Networks (TensorFlow/Keras), Hypothesis Testing  
+
+**Data Visualization & Business Intelligence:**  
+Tableau, Matplotlib, Seaborn  
+
+**Data Engineering & Preparation:**  
+Data Cleaning, Feature Engineering, Data Transformation, SQL Joins & Unions, Data Integration, Relational Databases, Data Validation  
+
+**Analytics & Evaluation Techniques:**  
+Model Evaluation (Accuracy, Precision, Recall, ROC/AUC), Multicollinearity (VIF), ACF/PACF Analysis, Statistical Significance Testing  
