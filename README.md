@@ -115,10 +115,29 @@ Data analyst with a master’s degree in data analytics, specializing in SQL, Py
 
 ---
 
-### D211 - Advanced Data Acquisition
+### D211 - SQL-Driven Data Preparation & Tableau Dashboard Development
 [View Project](https://github.com/matthewhelbig/D211_AdvancedDataAcquisition)
 
-Analyzed data distributions, trends, and relationships using visualizations and statistical summaries.
+[Tableau Dashboard](https://public.tableau.com/app/profile/matthew.helbig/viz/D210PerformanceAssessment_17081151912580/Story1#1)
+
+**Tools: PostgreSQL (pgAdmin4), SQL, Tableau**
+**Techniques: Data Cleaning, Data Transformation, Data Integration, SQL Joins, SQL Union Operations, Data Engineering, Feature Engineering, Data Visualization, Dashboard Development, Business Intelligence (BI)**  
+
+- Designed and executed advanced SQL workflows in PostgreSQL to clean, transform, and prepare healthcare data for analysis
+- Integrated multiple data sources (internal hospital data and external Kaggle dataset) to enable comparative analytics across healthcare systems
+- Performed data transformation and feature engineering, including:  
+  - Converting categorical variables (readmission, diabetes) to boolean  
+  - Creating derived variables (age bins, diabetic indicator)  
+  - Standardizing formats across datasets for consistency 
+- Applied advanced SQL operations, including INNER JOINs, UNION ALL, table creation, and data type conversions to build a unified dataset  
+- Enforced relational integrity through primary and foreign key constraints to ensure consistency and reliability of the data model 
+- Constructed a combined analytical dataset to support downstream visualization and reporting in Tableau  
+- Developed interactive Tableau dashboards to analyze key healthcare metrics, including:  
+  - Patient readmission rates  
+  - Diabetes status distribution  
+  - Age-based trends and hospital stay length  
+- Built dashboards with interactive filters, KPIs, and drill-down capabilities to support executive decision-making  
+- Delivered business insights, identifying trade-offs between reduced readmission rates and increased hospital stay length to inform operational strategy
 
 ---
 
